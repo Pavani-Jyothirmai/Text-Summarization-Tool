@@ -30,9 +30,9 @@ A powerful web-based application that helps you quickly summarize text using adv
 ### 🎯 Customizable Options
 
 1. **Summary Length Control**
-   - **Short**: Generates concise 3-5 sentence summaries
-   - **Medium**: Creates balanced 5-7 sentence summaries
-   - **Long**: Provides detailed 7-10 sentence summaries
+   - **Short**: Retains 40% of the original text for a quick, concise summary.
+   - **Medium**: Keeps 60% of the original content, offering a balanced overview.
+   - **Long**: Preserves 80% of the original text for a detailed, context-rich summary.
    - **Custom**: Allows user-defined number of sentences (1-50)
 
 2. **PDF Formatting**
