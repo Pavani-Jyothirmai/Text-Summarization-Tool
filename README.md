@@ -139,9 +139,12 @@ streamlit run app.py
 
 3. Click "Generate Summary" to create your summary
 
-4. Edit the generated summary if needed
+4. Edit and preview the generated summary if needed
 
 5. Download your summary in PDF or TXT format
+   
+7. Refer to the built-in guide for assistance if required
+
 
 ## Requirements
 
